@@ -1,2 +1,2 @@
-#This is it
+print("Only Him")
 print("Hello mamaa")
